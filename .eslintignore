@@ -1,0 +1,7 @@
+build/*.*
+config/*.*
+src/assets/*.*
+/public
+/dist
+/mocks
+*.d.ts

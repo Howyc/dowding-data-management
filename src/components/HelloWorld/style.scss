@@ -1,0 +1,9 @@
+// 样式不要写在行内
+.hello {
+  margin-bottom: 20px;
+  .title {
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-weight: bold;
+  }
+}
